@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-image: url(image/backgroundimg2.jpg);
+    background-image: url(./backgroundimg2.jpg);
     background-size: cover;
     backdrop-filter: blur(2px);
     background-attachment: fixed;
